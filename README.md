@@ -1,2 +1,2 @@
 # AstronomyPlots
-matplotlib and numpy code for scatter plots and graphs in astronomy
+python code for scatter plots and graphs in astronomy
